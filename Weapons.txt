@@ -1,0 +1,8 @@
+Boxing Gloves	10
+Diamond Pickaxe	20
+Shotgun	50
+Drill	80
+Holy Lance	100
+Bane of Light	130	
+Lightning Hammer	160	
+Lightsaber	200

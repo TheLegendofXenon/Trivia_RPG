@@ -1,0 +1,22 @@
+Boxing Gloves(W)	10
+Red Cap(H)	10
+Diamond Pickaxe(W)	20
+Overalls(B)	20
+Shotgun(W)	50
+Builder Helmet(H)	20 
+Drill(W)	80
+Knight’s Armor(B)	50
+Time Harp(W)	100
+Knight's Mask(H)	50
+Holy Lance(W)	130
+Iron Suit(B)	100
+Bane of Light(W)	160
+Mask of Terrible Fate(H)	100	
+Lightning Hammer(W)	200
+Yellow Jumpsuit(B)	200
+Lightsaber(W)	250
+
+Sunrise Tomato(HP)	50
+Bandages(HP)	100
+Elixir(HP)	150
+Med-Kit(HP)	200

@@ -1,0 +1,34 @@
+Read the introduction.
+Your default name is Xenon, unless you want to change it. It's up to you!
+
+Read the short introduction.
+From this point, there are two actions: going in the Menu or Exploring.
+
+In Menu, you can view your stats, equipment, or items with menu choices.
+You can even heal, equip, or drop items associated with their menu choices.
+Healing only occurs when you need it. Equiping only occurs when you have the
+necessary equipment to switch out and dropping only occurs when you choose to
+or your inventory is full while picking up an item.
+
+Exploring can get you involved in a fight, or find an item to pick up.
+The only items picked up from exploring directly are weapons, armor, and headgear.
+Nothing can also happen by the way!
+
+Fighting is important as you can only level up from beating enemies. You can
+also pick up their drops if they didn't use them.
+Your actions you can choose from while fighting include attacking, questions,
+defending, using a healing item, or fleeing.
+Besides questions, every other action is self-explanatory.
+Questions ask you a random question about nerdy, trivial, or C++ OOP multiple-choice
+question. You will affect the enemy stat in your favor if you get it correct, but
+the opposite will happen if you get it wrong.
+Likewise the enemy could change your stats via a game of rock-paper-scissors,
+so be careful.
+
+Once you reach level 10 without dieing, you will get the menu option one last time.
+You will engage with the game's boss. He has the best stats and his skill
+comes from two deadly, fuzzy dice so beware of that.
+
+Beating him will show the end credits. Hopefully you don't die along the way, because
+you will have to re-run the game. :)
+

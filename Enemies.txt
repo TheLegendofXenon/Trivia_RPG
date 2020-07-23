@@ -1,0 +1,9 @@
+Filthy Peasant	15	5	10	10	10	5
+Noble Raccoon	25	8	20	20	20	8
+Walking Tree	40	12	35	35	35	12
+Whimsical Owl	60	20	55	55	55	17
+Mighty Shovel	85	25	75	75	75	23
+Ultra Ghost	105	35	95	95	95	29
+Purple Guy	140	45	120	120	120	36
+Elite Penguin	180	50	160	160	160	44
+Energetic Cat-Girl	225	65	200	200	200	50	

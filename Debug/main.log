@@ -1,0 +1,33 @@
+﻿  Boss.cpp
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\boss.cpp(17): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\boss.cpp(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\boss.cpp(71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\boss.cpp(80): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\boss.cpp(81): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\boss.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Avatar.cpp
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(23): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(83): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(156): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(160): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(164): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(171): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(175): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(179): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(98): warning C4101: 'who_choice': unreferenced local variable
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(217): warning C4018: '<=': signed/unsigned mismatch
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(250): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(251): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(264): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(418): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(408): warning C4101: 'rand_item': unreferenced local variable
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(408): warning C4101: 'print': unreferenced local variable
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(544): warning C4018: '<=': signed/unsigned mismatch
+c:\users\thi-v\onedrive - university of south florida\usf spring 2019\object oriented software design\flex project\short text-based rpg\main\main\avatar.cpp(638): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Enemies.cpp
+  main.cpp
+  Enemy.cpp
+  main.vcxproj -> C:\Users\thi-v\OneDrive - University of South Florida\USF Spring 2019\Object Oriented Software Design\Flex Project\Short Text-Based RPG\main\Debug\main.exe

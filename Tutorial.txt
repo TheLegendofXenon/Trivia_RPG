@@ -1,0 +1,12 @@
+You'll explore this place like any other RPG with your menu and explore options.
+Your menu allows you to look at stats, inventory, or equipment. You can even drop 
+items, use items, or switch out equipment in the menu. Be aware that your inventory 
+limit is 5 items. Exploring allows you to fight enemies to level up. Furthermore, 
+exploring allows you to find items that you can choose to pick up. Actions you can 
+choose from fighting range from attacking, to defending, to using a healing item, 
+to fleeing, to quizing yourself. Choosing to to quiz yourself means giving yourself 
+a chance to boost your stats, or lower your enemy's stats. However, getting the 
+question wrong means doing the exact opposite. :(
+
+Good luck!
+

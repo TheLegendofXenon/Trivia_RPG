@@ -1,0 +1,118 @@
+Q. Which is not a video game console?
+A) PS4
+B) Nintendo Switch
+C) PC ^
+D) Xbox One
+
+Q. Who did not survive Thanos' snap?
+A) Steve Rogers
+B) Rocket 
+C) Peter Quill ^
+D) Tony Stark
+
+Q. What anime is Makise Kurisu from?
+A) Laid-Back Camp
+B) Steins;Gate ^
+C) The Seven Deadly Sins
+D) Food Wars
+
+Q. Which is not a fighter in Super Smash Bros. Ultimate?
+A) Ridley from Metroid
+B) Joker from Persona 5
+C) Palutena from Kid Icarus: Uprising
+D) Sora from Kingdom Hearts ^
+
+Q. Which of the following is a Dreamworks film?
+A) Hotel Transylvania 
+B) Despicable Me
+C) How to Train your Dragon ^
+D) Up
+
+Q. Which movie is currently on track to be the most grossed movie ever?
+A) Star Wars Episode IX
+B) Avengers: Endgame ^
+C) Avatar (the blue people one)
+D) Toy Story 4
+
+Q. Which of the following movies was Cillian Murphy NOT in?
+A) Inception
+B) In Time
+C) Free Fire
+D) Beirut ^
+
+Q. Which of the famously turned down the role of Neo in the Matrix trilogy?
+A) Matt Damon
+B) Mark Wahlberg
+C) Bruce Willis
+D) Will Smith ^
+
+Q. Which of the following video game franchises has received a 3rd installment?
+A) Crackdown ^
+B) Half-Life
+C) Portal
+D) Left 4 Dead
+
+Q. Which industry did Don Draper from Mad Men work in?
+A) Real Estate
+B) Cigarette
+C) Advertising ^
+D) Accounting 
+
+Q. In which ancient civilizaton was democracy created?
+A) Rome
+B) Greece ^
+C) Egypt
+D) Mesopotamia
+
+Q. Around which depth of water does blood begin to appear green?
+A) 10 feet
+B) 50 feet ^
+C) 100 feet
+D) 500 feet
+
+Q. Which is the largest mammal on Earth?
+A) Blue Whale ^
+B) Rhinocerous
+C) Giraffe
+D) Cat
+
+Q. Who is the 22nd president of the USA?
+A) Chester Arthur
+B) Benjamin Harrison
+C) Grover Cleveland ^
+D) William McKinley
+
+Q. Which character returns the value of (or dereferences) a pointer?
+A) &
+B) $
+C) %
+D) * ^
+
+Q. Which of the following loops perform the body of statements inside the loop at least once?
+A) Do-while Loop ^
+B) For Loop
+C) While Loop
+D) Range-based Loop
+
+Q. Which statement continues a loop by jumping back to the top?
+A) cin.clear();
+B) return;
+C) break;
+D) continue; ^
+
+Q. Which of the following is known as the ternary operator?
+A) \
+B) ? ^
+C) *
+D) ->
+
+Q. Which types of elements have a scope till the program terminates?
+A) Static ^
+B) Private 
+C) Const
+D) Virtual
+
+
+
+
+
